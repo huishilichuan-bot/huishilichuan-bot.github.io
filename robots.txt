@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /hoshi-manabi/admin.html
 Sitemap: https://huishilichuan-bot.github.io/sitemap.xml
+Sitemap: https://huishilichuan-bot.github.io/hoshi-manabi/sitemap.xml
